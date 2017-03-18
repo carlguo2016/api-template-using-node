@@ -1,0 +1,22 @@
+{
+  "name": "node-api-template",
+  "description": "Api template using MAC",
+  "version": "0.0.1",
+  "author": "Carl guo",
+  "private": true,
+  "engines": {
+    "node": "~4.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.14.1",
+    "node-uuid": "^1.4.7",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.1"
+  }
+}
+
