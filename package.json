@@ -1,6 +1,6 @@
 {
   "name": "node-api-template",
-  "description": "Api template using MAC",
+  "description": "Api template using MVC",
   "version": "0.0.1",
   "author": "Carl guo",
   "private": true,
