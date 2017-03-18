@@ -22,10 +22,12 @@ npm install
 npm start
 ```
 
+本地新建test数据库, 导入测试数据库
+
 ###访问接口
 
 ```
-http://127.0.0.1:3000/v1/user/register
+例如访问注册接口:  http://127.0.0.1:3000/v1/user/register
 ```
 
 ###目录结构
